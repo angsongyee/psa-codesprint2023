@@ -19,8 +19,9 @@ def chat_with_csv(df,prompt):
     return result
 
 def login():
-    st.title("Shipping Line Login")
-    st.selectbox("Which shipping line are you from?")
+    st.title("Login")
+    st.selectbox("Which shipping line are you from?", 
+    ("Masersk", "ESP23", "NSA", "USAxChina"))
 
 def chat_page():
     st.set_page_config(layout='wide')
