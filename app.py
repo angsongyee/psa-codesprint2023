@@ -35,6 +35,7 @@ def handle_login():
 def chat_page():
     with box.container():
         st.title("ChatCSV powered by LLM")
+        st.write("You are ", st.session_state.option)
 
         input_csv = st.file_uploader("Upload your CSV file", type=['csv'])
 
