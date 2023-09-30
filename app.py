@@ -29,6 +29,7 @@ def login():
 def handle_login():
     st.session_state.login = True
     box.empty() 
+    sleep(0.01)
 
 def chat_page():
     st.title("ChatCSV powered by LLM")
