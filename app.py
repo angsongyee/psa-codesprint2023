@@ -9,6 +9,9 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 st.set_page_config(layout='wide')
 
+title = st.title("")
+box = st.empty()
+
 def chat_with_csv(df,prompt):
     llm = OpenAI(api_token=openai_api_key)
     pandas_ai = PandasAI(llm)
@@ -17,16 +20,17 @@ def chat_with_csv(df,prompt):
     return result
 
 def login():
-    st.title("Login")
-    st.session_state.option = st.selectbox("Which shipping line are you from?", 
-    ("Masersk", "ESP23", "NSA", "USAxChina"))
-    st.button("Submit", type="primary", on_click=handle_login)
+    title = st.title("Login")
+    with box.container():
+        st.session_state.option = st.selectbox("Which shipping line are you from?", 
+            ("Masersk", "ESP23", "NSA", "USAxChina"))
+        st.button("Submit", type="primary", on_click=handle_login)
 
 def handle_login():
     st.session_state.login = True
+    box.empty() 
 
 def chat_page():
-    st.empty()
     st.title("ChatCSV powered by LLM")
 
     input_csv = st.file_uploader("Upload your CSV file", type=['csv'])
