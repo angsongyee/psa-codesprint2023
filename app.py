@@ -6,8 +6,6 @@ import pandas as pd
 from pandasai import PandasAI
 
 load_dotenv()
-#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
-
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
 
@@ -20,8 +18,12 @@ def chat_with_csv(df,prompt):
 
 def login():
     st.title("Login")
-    st.selectbox("Which shipping line are you from?", 
+    st.session_state.option = st.selectbox("Which shipping line are you from?", 
     ("Masersk", "ESP23", "NSA", "USAxChina"))
+    st.button("Submit", type="primary", on_click=handle_login)
+
+def handle_login():
+    st.session_state.login = True
 
 def chat_page():
     st.set_page_config(layout='wide')
@@ -49,5 +51,10 @@ def chat_page():
                         st.info("Your Query: "+input_text)
                         result = chat_with_csv(data, input_text)
                         st.success(result)
+if 'login' not in st.session_state:
+    st.session_state.login = False
 
 login()
+
+if st.session_state.login:
+    chat_page()
