@@ -11,7 +11,6 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 st.set_page_config(layout='wide')
 
-title = st.title("")
 box = st.empty()
 
 def chat_with_csv(df,prompt):
@@ -22,8 +21,8 @@ def chat_with_csv(df,prompt):
     return result
 
 def login():
-    title = st.title("Login")
     with box.container():
+        st.title("Login")
         st.session_state.option = st.selectbox("Which shipping line are you from?", 
             ("Masersk", "ESP23", "NSA", "USAxChina"))
         st.button("Submit", type="primary", on_click=handle_login)
