@@ -7,7 +7,7 @@ from pandasai import PandasAI
 
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
-
+st.set_page_config(layout='wide')
 
 def chat_with_csv(df,prompt):
     llm = OpenAI(api_token=openai_api_key)
@@ -26,7 +26,6 @@ def handle_login():
     st.session_state.login = True
 
 def chat_page():
-    st.set_page_config(layout='wide')
     st.title("ChatCSV powered by LLM")
 
     input_csv = st.file_uploader("Upload your CSV file", type=['csv'])
