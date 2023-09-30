@@ -26,6 +26,7 @@ def handle_login():
     st.session_state.login = True
 
 def chat_page():
+    st.empty()
     st.title("ChatCSV powered by LLM")
 
     input_csv = st.file_uploader("Upload your CSV file", type=['csv'])
