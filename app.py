@@ -58,6 +58,7 @@ def chat_page():
                         st.info("Your Query: "+input_text)
                         result = chat_with_csv(data, input_text)
                         st.success(result)
+
 if 'login' not in st.session_state:
     st.session_state.login = False
 
