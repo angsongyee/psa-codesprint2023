@@ -45,16 +45,10 @@ def chat_page():
             st.dataframe(data.set_index(data.columns[0]), use_container_width=True)
 
         with col2:
-            c1, c2, c3 = st.columns([1,1,1])
-            with c1:
-                containers_need = st.number_input("How many containers do you need?", min_value=1, max_value=999999, value=1)
-            
-            with c2:
-                line_options = data["Shipping Line"].unique()
-                line = st.selectbox("Shipping line to borrow from", line_options[line_options != st.session_state.option])
-
-            with c3:
-                container_type = st.selectbox("Select container type", data["Type"].unique())
+            containers_need = st.number_input("How many containers do you need?", min_value=1, max_value=999999, value=1)
+            line_options = data["Shipping Line"].unique()
+            line = st.selectbox("Shipping line to borrow from", line_options[line_options != st.session_state.option])
+            container_type = st.selectbox("Select container type", data["Type"].unique())
                 
             if containers_need is not None:
                 prompt = "Give me the list of the " + str(containers_need) + " least expensive " + container_type +" containers from " + line + "."
