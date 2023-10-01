@@ -1,201 +1,201 @@
-Port,Shipping Line,Serial No.,Container Availability,Container Type,Container Price/Month
-Pasir Panjang,Mediterranean Shipping,C00001,1,Premium,693
+Port,Shipping Line,Serial No.,Available,Type,Price
+Pasir Panjang,Mediterranean Shipping,C00001,1,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00002,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00003,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00003,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00004,0,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00005,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00006,1,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00007,1,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00008,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00006,1,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00007,1,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00008,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00009,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00010,0,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00011,1,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00012,1,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00012,1,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00013,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00014,1,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00015,1,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00015,1,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00016,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00017,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00018,1,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00018,1,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00019,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00020,1,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00020,1,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00021,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00022,1,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00023,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00023,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00024,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00025,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00025,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00026,1,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00027,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00027,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00028,1,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00029,0,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00030,1,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00031,0,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00032,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00029,0,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00030,1,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00031,0,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00032,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00033,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00034,0,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00035,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00036,0,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00037,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00038,1,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00039,0,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00040,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00038,1,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00039,0,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00040,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00041,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00042,1,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00043,0,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00044,1,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00042,1,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00043,0,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00044,1,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00045,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00046,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00047,1,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00048,1,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00048,1,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00049,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00050,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00051,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00052,1,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00052,1,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00053,0,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00054,0,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00055,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00056,1,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00057,1,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00058,0,Premium,693
-Pasir Panjang,Mediterranean Shipping,C00059,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00057,1,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00058,0,Refrigerated,693
+Pasir Panjang,Mediterranean Shipping,C00059,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00060,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00061,0,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00062,0,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00063,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00064,1,Standard,595
 Pasir Panjang,Mediterranean Shipping,C00065,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00066,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00066,0,Refrigerated,693
 Pasir Panjang,Mediterranean Shipping,C00067,0,Standard,595
-Pasir Panjang,Mediterranean Shipping,C00068,0,Premium,693
-Sembawang,Mediterranean Shipping,C00069,0,Premium,693
-Sembawang,Mediterranean Shipping,C00070,0,Premium,693
+Pasir Panjang,Mediterranean Shipping,C00068,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00069,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00070,0,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00071,1,Standard,595
-Sembawang,Mediterranean Shipping,C00072,0,Premium,693
-Sembawang,Mediterranean Shipping,C00073,0,Premium,693
-Sembawang,Mediterranean Shipping,C00074,1,Premium,693
-Sembawang,Mediterranean Shipping,C00075,1,Premium,693
+Sembawang,Mediterranean Shipping,C00072,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00073,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00074,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00075,1,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00076,1,Standard,595
-Sembawang,Mediterranean Shipping,C00077,1,Premium,693
+Sembawang,Mediterranean Shipping,C00077,1,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00078,0,Standard,595
-Sembawang,Mediterranean Shipping,C00079,0,Premium,693
-Sembawang,Mediterranean Shipping,C00080,0,Premium,693
-Sembawang,Mediterranean Shipping,C00081,1,Premium,693
+Sembawang,Mediterranean Shipping,C00079,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00080,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00081,1,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00082,1,Standard,595
-Sembawang,Mediterranean Shipping,C00083,1,Premium,693
+Sembawang,Mediterranean Shipping,C00083,1,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00084,0,Standard,595
 Sembawang,Mediterranean Shipping,C00085,1,Standard,595
 Sembawang,Mediterranean Shipping,C00086,0,Standard,595
 Sembawang,Mediterranean Shipping,C00087,1,Standard,595
 Sembawang,Mediterranean Shipping,C00088,0,Standard,595
 Sembawang,Mediterranean Shipping,C00089,0,Standard,595
-Sembawang,Mediterranean Shipping,C00090,0,Premium,693
-Sembawang,Mediterranean Shipping,C00091,1,Premium,693
+Sembawang,Mediterranean Shipping,C00090,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00091,1,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00092,1,Standard,595
 Sembawang,Mediterranean Shipping,C00093,0,Standard,595
-Sembawang,Mediterranean Shipping,C00094,0,Premium,693
-Sembawang,Mediterranean Shipping,C00095,0,Premium,693
-Sembawang,Mediterranean Shipping,C00096,1,Premium,693
-Sembawang,Mediterranean Shipping,C00097,0,Premium,693
-Sembawang,Mediterranean Shipping,C00098,1,Premium,693
-Sembawang,Mediterranean Shipping,C00099,1,Premium,693
-Sembawang,Mediterranean Shipping,C00100,1,Premium,693
-Sembawang,Mediterranean Shipping,C00101,0,Premium,693
-Sembawang,Mediterranean Shipping,C00102,0,Premium,693
-Sembawang,Mediterranean Shipping,C00103,1,Premium,693
+Sembawang,Mediterranean Shipping,C00094,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00095,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00096,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00097,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00098,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00099,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00100,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00101,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00102,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00103,1,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00104,1,Standard,595
-Sembawang,Mediterranean Shipping,C00105,0,Premium,693
-Sembawang,Mediterranean Shipping,C00106,1,Premium,693
-Sembawang,Mediterranean Shipping,C00107,1,Premium,693
+Sembawang,Mediterranean Shipping,C00105,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00106,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00107,1,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00108,0,Standard,595
-Sembawang,Mediterranean Shipping,C00109,1,Premium,693
-Sembawang,Mediterranean Shipping,C00110,1,Premium,693
-Sembawang,Mediterranean Shipping,C00111,1,Premium,693
+Sembawang,Mediterranean Shipping,C00109,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00110,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00111,1,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00112,0,Standard,595
-Sembawang,Mediterranean Shipping,C00113,0,Premium,693
+Sembawang,Mediterranean Shipping,C00113,0,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00114,1,Standard,595
-Sembawang,Mediterranean Shipping,C00115,1,Premium,693
-Sembawang,Mediterranean Shipping,C00116,1,Premium,693
-Sembawang,Mediterranean Shipping,C00117,1,Premium,693
-Sembawang,Mediterranean Shipping,C00118,0,Premium,693
-Sembawang,Mediterranean Shipping,C00119,0,Premium,693
+Sembawang,Mediterranean Shipping,C00115,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00116,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00117,1,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00118,0,Refrigerated,693
+Sembawang,Mediterranean Shipping,C00119,0,Refrigerated,693
 Sembawang,Mediterranean Shipping,C00120,0,Standard,595
 Sembawang,Mediterranean Shipping,C00121,1,Standard,595
 Tuas,Mediterranean Shipping,C00122,1,Standard,595
 Tuas,Mediterranean Shipping,C00123,1,Standard,595
 Tuas,Mediterranean Shipping,C00124,0,Standard,595
-Tuas,Mediterranean Shipping,C00125,0,Premium,693
+Tuas,Mediterranean Shipping,C00125,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00126,1,Standard,595
 Tuas,Mediterranean Shipping,C00127,1,Standard,595
 Tuas,Mediterranean Shipping,C00128,1,Standard,595
-Tuas,Mediterranean Shipping,C00129,1,Premium,693
+Tuas,Mediterranean Shipping,C00129,1,Refrigerated,693
 Tuas,Mediterranean Shipping,C00130,1,Standard,595
 Tuas,Mediterranean Shipping,C00131,0,Standard,595
-Tuas,Mediterranean Shipping,C00132,0,Premium,693
+Tuas,Mediterranean Shipping,C00132,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00133,0,Standard,595
 Tuas,Mediterranean Shipping,C00134,0,Standard,595
 Tuas,Mediterranean Shipping,C00135,0,Standard,595
-Tuas,Mediterranean Shipping,C00136,0,Premium,693
-Tuas,Mediterranean Shipping,C00137,0,Premium,693
-Tuas,Mediterranean Shipping,C00138,0,Premium,693
+Tuas,Mediterranean Shipping,C00136,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00137,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00138,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00139,1,Standard,595
 Tuas,Mediterranean Shipping,C00140,1,Standard,595
-Tuas,Mediterranean Shipping,C00141,0,Premium,693
-Tuas,Mediterranean Shipping,C00142,0,Premium,693
+Tuas,Mediterranean Shipping,C00141,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00142,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00143,0,Standard,595
-Tuas,Mediterranean Shipping,C00144,1,Premium,693
-Tuas,Mediterranean Shipping,C00145,1,Premium,693
+Tuas,Mediterranean Shipping,C00144,1,Refrigerated,693
+Tuas,Mediterranean Shipping,C00145,1,Refrigerated,693
 Tuas,Mediterranean Shipping,C00146,1,Standard,595
-Tuas,Mediterranean Shipping,C00147,1,Premium,693
-Tuas,Mediterranean Shipping,C00148,0,Premium,693
-Tuas,Mediterranean Shipping,C00149,0,Premium,693
+Tuas,Mediterranean Shipping,C00147,1,Refrigerated,693
+Tuas,Mediterranean Shipping,C00148,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00149,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00150,1,Standard,595
 Tuas,Mediterranean Shipping,C00151,0,Standard,595
-Tuas,Mediterranean Shipping,C00152,1,Premium,693
+Tuas,Mediterranean Shipping,C00152,1,Refrigerated,693
 Tuas,Mediterranean Shipping,C00153,1,Standard,595
-Tuas,Mediterranean Shipping,C00154,0,Premium,693
-Tuas,Mediterranean Shipping,C00155,0,Premium,693
+Tuas,Mediterranean Shipping,C00154,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00155,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00156,1,Standard,595
 Tuas,Mediterranean Shipping,C00157,1,Standard,595
-Tuas,Mediterranean Shipping,C00158,0,Premium,693
+Tuas,Mediterranean Shipping,C00158,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00159,0,Standard,595
-Tuas,Mediterranean Shipping,C00160,1,Premium,693
+Tuas,Mediterranean Shipping,C00160,1,Refrigerated,693
 Tuas,Mediterranean Shipping,C00161,0,Standard,595
 Tuas,Mediterranean Shipping,C00162,1,Standard,595
 Tuas,Mediterranean Shipping,C00163,0,Standard,595
 Tuas,Mediterranean Shipping,C00164,0,Standard,595
-Tuas,Mediterranean Shipping,C00165,0,Premium,693
-Tuas,Mediterranean Shipping,C00166,0,Premium,693
+Tuas,Mediterranean Shipping,C00165,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00166,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00167,0,Standard,595
-Tuas,Mediterranean Shipping,C00168,0,Premium,693
-Tuas,Mediterranean Shipping,C00169,0,Premium,693
-Tuas,Mediterranean Shipping,C00170,0,Premium,693
-Tuas,Mediterranean Shipping,C00171,0,Premium,693
+Tuas,Mediterranean Shipping,C00168,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00169,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00170,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00171,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00172,1,Standard,595
 Tuas,Mediterranean Shipping,C00173,0,Standard,595
-Tuas,Mediterranean Shipping,C00174,0,Premium,693
+Tuas,Mediterranean Shipping,C00174,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00175,1,Standard,595
-Tuas,Mediterranean Shipping,C00176,0,Premium,693
+Tuas,Mediterranean Shipping,C00176,0,Refrigerated,693
 Tuas,Mediterranean Shipping,C00177,1,Standard,595
-Tuas,Mediterranean Shipping,C00178,0,Premium,693
-Tuas,Mediterranean Shipping,C00179,0,Premium,693
-Tuas,Mediterranean Shipping,C00180,1,Premium,693
-Tuas,Mediterranean Shipping,C00181,1,Premium,693
+Tuas,Mediterranean Shipping,C00178,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00179,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00180,1,Refrigerated,693
+Tuas,Mediterranean Shipping,C00181,1,Refrigerated,693
 Tuas,Mediterranean Shipping,C00182,0,Standard,595
-Tuas,Mediterranean Shipping,C00183,1,Premium,693
-Tuas,Mediterranean Shipping,C00184,1,Premium,693
+Tuas,Mediterranean Shipping,C00183,1,Refrigerated,693
+Tuas,Mediterranean Shipping,C00184,1,Refrigerated,693
 Tuas,Mediterranean Shipping,C00185,0,Standard,595
-Tuas,Mediterranean Shipping,C00186,0,Premium,693
-Tuas,Mediterranean Shipping,C00187,1,Premium,693
+Tuas,Mediterranean Shipping,C00186,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00187,1,Refrigerated,693
 Tuas,Mediterranean Shipping,C00188,1,Standard,595
 Tuas,Mediterranean Shipping,C00189,0,Standard,595
 Tuas,Mediterranean Shipping,C00190,0,Standard,595
 Tuas,Mediterranean Shipping,C00191,1,Standard,595
 Tuas,Mediterranean Shipping,C00192,0,Standard,595
-Tuas,Mediterranean Shipping,C00193,0,Premium,693
-Tuas,Mediterranean Shipping,C00194,1,Premium,693
-Pasir Panjang,COSCO,E00001,0,Premium,753
-Pasir Panjang,COSCO,E00002,1,Premium,753
-Pasir Panjang,COSCO,E00003,1,Premium,753
+Tuas,Mediterranean Shipping,C00193,0,Refrigerated,693
+Tuas,Mediterranean Shipping,C00194,1,Refrigerated,693
+Pasir Panjang,COSCO,E00001,0,Refrigerated,753
+Pasir Panjang,COSCO,E00002,1,Refrigerated,753
+Pasir Panjang,COSCO,E00003,1,Refrigerated,753
 Pasir Panjang,COSCO,E00004,0,Standard,630
 Pasir Panjang,COSCO,E00005,0,Standard,630
 Pasir Panjang,COSCO,E00006,0,Standard,630
@@ -205,797 +205,797 @@ Pasir Panjang,COSCO,E00009,1,Standard,630
 Pasir Panjang,COSCO,E00010,0,Standard,630
 Pasir Panjang,COSCO,E00011,1,Standard,630
 Pasir Panjang,COSCO,E00012,1,Standard,630
-Pasir Panjang,COSCO,E00013,1,Premium,753
-Pasir Panjang,COSCO,E00014,1,Premium,753
-Pasir Panjang,COSCO,E00015,0,Premium,753
+Pasir Panjang,COSCO,E00013,1,Refrigerated,753
+Pasir Panjang,COSCO,E00014,1,Refrigerated,753
+Pasir Panjang,COSCO,E00015,0,Refrigerated,753
 Pasir Panjang,COSCO,E00016,1,Standard,630
-Pasir Panjang,COSCO,E00017,1,Premium,753
-Pasir Panjang,COSCO,E00018,1,Premium,753
-Pasir Panjang,COSCO,E00019,1,Premium,753
+Pasir Panjang,COSCO,E00017,1,Refrigerated,753
+Pasir Panjang,COSCO,E00018,1,Refrigerated,753
+Pasir Panjang,COSCO,E00019,1,Refrigerated,753
 Pasir Panjang,COSCO,E00020,0,Standard,630
-Pasir Panjang,COSCO,E00021,1,Premium,753
-Pasir Panjang,COSCO,E00022,0,Premium,753
+Pasir Panjang,COSCO,E00021,1,Refrigerated,753
+Pasir Panjang,COSCO,E00022,0,Refrigerated,753
 Pasir Panjang,COSCO,E00023,1,Standard,630
-Pasir Panjang,COSCO,E00024,1,Premium,753
+Pasir Panjang,COSCO,E00024,1,Refrigerated,753
 Pasir Panjang,COSCO,E00025,1,Standard,630
 Pasir Panjang,COSCO,E00026,0,Standard,630
-Pasir Panjang,COSCO,E00027,1,Premium,753
+Pasir Panjang,COSCO,E00027,1,Refrigerated,753
 Pasir Panjang,COSCO,E00028,0,Standard,630
-Pasir Panjang,COSCO,E00029,1,Premium,753
+Pasir Panjang,COSCO,E00029,1,Refrigerated,753
 Pasir Panjang,COSCO,E00030,0,Standard,630
-Pasir Panjang,COSCO,E00031,1,Premium,753
-Pasir Panjang,COSCO,E00032,1,Premium,753
+Pasir Panjang,COSCO,E00031,1,Refrigerated,753
+Pasir Panjang,COSCO,E00032,1,Refrigerated,753
 Pasir Panjang,COSCO,E00033,0,Standard,630
 Pasir Panjang,COSCO,E00034,0,Standard,630
-Pasir Panjang,COSCO,E00035,1,Premium,753
-Pasir Panjang,COSCO,E00036,1,Premium,753
-Pasir Panjang,COSCO,E00037,1,Premium,753
-Pasir Panjang,COSCO,E00038,1,Premium,753
+Pasir Panjang,COSCO,E00035,1,Refrigerated,753
+Pasir Panjang,COSCO,E00036,1,Refrigerated,753
+Pasir Panjang,COSCO,E00037,1,Refrigerated,753
+Pasir Panjang,COSCO,E00038,1,Refrigerated,753
 Pasir Panjang,COSCO,E00039,0,Standard,630
-Pasir Panjang,COSCO,E00040,0,Premium,753
-Pasir Panjang,COSCO,E00041,0,Premium,753
-Pasir Panjang,COSCO,E00042,1,Premium,753
+Pasir Panjang,COSCO,E00040,0,Refrigerated,753
+Pasir Panjang,COSCO,E00041,0,Refrigerated,753
+Pasir Panjang,COSCO,E00042,1,Refrigerated,753
 Pasir Panjang,COSCO,E00043,0,Standard,630
-Pasir Panjang,COSCO,E00044,0,Premium,753
+Pasir Panjang,COSCO,E00044,0,Refrigerated,753
 Pasir Panjang,COSCO,E00045,0,Standard,630
 Pasir Panjang,COSCO,E00046,1,Standard,630
-Pasir Panjang,COSCO,E00047,0,Premium,753
+Pasir Panjang,COSCO,E00047,0,Refrigerated,753
 Pasir Panjang,COSCO,E00048,0,Standard,630
 Pasir Panjang,COSCO,E00049,0,Standard,630
-Pasir Panjang,COSCO,E00050,0,Premium,753
-Pasir Panjang,COSCO,E00051,0,Premium,753
+Pasir Panjang,COSCO,E00050,0,Refrigerated,753
+Pasir Panjang,COSCO,E00051,0,Refrigerated,753
 Pasir Panjang,COSCO,E00052,1,Standard,630
 Pasir Panjang,COSCO,E00053,1,Standard,630
 Pasir Panjang,COSCO,E00054,1,Standard,630
-Pasir Panjang,COSCO,E00055,1,Premium,753
+Pasir Panjang,COSCO,E00055,1,Refrigerated,753
 Pasir Panjang,COSCO,E00056,0,Standard,630
-Pasir Panjang,COSCO,E00057,0,Premium,753
-Pasir Panjang,COSCO,E00058,1,Premium,753
+Pasir Panjang,COSCO,E00057,0,Refrigerated,753
+Pasir Panjang,COSCO,E00058,1,Refrigerated,753
 Pasir Panjang,COSCO,E00059,1,Standard,630
-Pasir Panjang,COSCO,E00060,1,Premium,753
-Pasir Panjang,COSCO,E00061,1,Premium,753
+Pasir Panjang,COSCO,E00060,1,Refrigerated,753
+Pasir Panjang,COSCO,E00061,1,Refrigerated,753
 Pasir Panjang,COSCO,E00062,0,Standard,630
 Pasir Panjang,COSCO,E00063,1,Standard,630
 Pasir Panjang,COSCO,E00064,0,Standard,630
 Pasir Panjang,COSCO,E00065,0,Standard,630
 Pasir Panjang,COSCO,E00066,0,Standard,630
-Pasir Panjang,COSCO,E00067,1,Premium,753
-Pasir Panjang,COSCO,E00068,1,Premium,753
+Pasir Panjang,COSCO,E00067,1,Refrigerated,753
+Pasir Panjang,COSCO,E00068,1,Refrigerated,753
 Pasir Panjang,COSCO,E00069,1,Standard,630
 Pasir Panjang,COSCO,E00070,1,Standard,630
 Pasir Panjang,COSCO,E00071,0,Standard,630
-Pasir Panjang,COSCO,E00072,0,Premium,753
+Pasir Panjang,COSCO,E00072,0,Refrigerated,753
 Pasir Panjang,COSCO,E00073,1,Standard,630
 Sembawang,COSCO,E00074,0,Standard,630
-Sembawang,COSCO,E00075,1,Premium,753
-Sembawang,COSCO,E00076,1,Premium,753
+Sembawang,COSCO,E00075,1,Refrigerated,753
+Sembawang,COSCO,E00076,1,Refrigerated,753
 Sembawang,COSCO,E00077,0,Standard,630
-Sembawang,COSCO,E00078,1,Premium,753
+Sembawang,COSCO,E00078,1,Refrigerated,753
 Sembawang,COSCO,E00079,0,Standard,630
 Sembawang,COSCO,E00080,0,Standard,630
-Sembawang,COSCO,E00081,0,Premium,753
-Sembawang,COSCO,E00082,1,Premium,753
-Sembawang,COSCO,E00083,1,Premium,753
-Sembawang,COSCO,E00084,0,Premium,753
-Sembawang,COSCO,E00085,0,Premium,753
-Sembawang,COSCO,E00086,1,Premium,753
-Sembawang,COSCO,E00087,1,Premium,753
+Sembawang,COSCO,E00081,0,Refrigerated,753
+Sembawang,COSCO,E00082,1,Refrigerated,753
+Sembawang,COSCO,E00083,1,Refrigerated,753
+Sembawang,COSCO,E00084,0,Refrigerated,753
+Sembawang,COSCO,E00085,0,Refrigerated,753
+Sembawang,COSCO,E00086,1,Refrigerated,753
+Sembawang,COSCO,E00087,1,Refrigerated,753
 Sembawang,COSCO,E00088,0,Standard,630
 Sembawang,COSCO,E00089,1,Standard,630
 Sembawang,COSCO,E00090,1,Standard,630
 Sembawang,COSCO,E00091,0,Standard,630
-Sembawang,COSCO,E00092,1,Premium,753
-Sembawang,COSCO,E00093,1,Premium,753
+Sembawang,COSCO,E00092,1,Refrigerated,753
+Sembawang,COSCO,E00093,1,Refrigerated,753
 Sembawang,COSCO,E00094,0,Standard,630
-Sembawang,COSCO,E00095,1,Premium,753
-Sembawang,COSCO,E00096,1,Premium,753
+Sembawang,COSCO,E00095,1,Refrigerated,753
+Sembawang,COSCO,E00096,1,Refrigerated,753
 Sembawang,COSCO,E00097,0,Standard,630
-Sembawang,COSCO,E00098,0,Premium,753
+Sembawang,COSCO,E00098,0,Refrigerated,753
 Sembawang,COSCO,E00099,1,Standard,630
 Sembawang,COSCO,E00100,0,Standard,630
 Sembawang,COSCO,E00101,1,Standard,630
 Sembawang,COSCO,E00102,1,Standard,630
 Sembawang,COSCO,E00103,0,Standard,630
-Sembawang,COSCO,E00104,0,Premium,753
+Sembawang,COSCO,E00104,0,Refrigerated,753
 Sembawang,COSCO,E00105,1,Standard,630
-Sembawang,COSCO,E00106,0,Premium,753
+Sembawang,COSCO,E00106,0,Refrigerated,753
 Sembawang,COSCO,E00107,1,Standard,630
 Sembawang,COSCO,E00108,1,Standard,630
-Sembawang,COSCO,E00109,1,Premium,753
+Sembawang,COSCO,E00109,1,Refrigerated,753
 Sembawang,COSCO,E00110,1,Standard,630
 Sembawang,COSCO,E00111,0,Standard,630
 Sembawang,COSCO,E00112,1,Standard,630
 Sembawang,COSCO,E00113,1,Standard,630
 Sembawang,COSCO,E00114,0,Standard,630
-Sembawang,COSCO,E00115,0,Premium,753
-Sembawang,COSCO,E00116,0,Premium,753
+Sembawang,COSCO,E00115,0,Refrigerated,753
+Sembawang,COSCO,E00116,0,Refrigerated,753
 Sembawang,COSCO,E00117,0,Standard,630
-Sembawang,COSCO,E00118,0,Premium,753
+Sembawang,COSCO,E00118,0,Refrigerated,753
 Sembawang,COSCO,E00119,0,Standard,630
-Sembawang,COSCO,E00120,0,Premium,753
+Sembawang,COSCO,E00120,0,Refrigerated,753
 Sembawang,COSCO,E00121,0,Standard,630
-Sembawang,COSCO,E00122,1,Premium,753
+Sembawang,COSCO,E00122,1,Refrigerated,753
 Sembawang,COSCO,E00123,0,Standard,630
-Sembawang,COSCO,E00124,0,Premium,753
-Sembawang,COSCO,E00125,0,Premium,753
-Sembawang,COSCO,E00126,1,Premium,753
-Sembawang,COSCO,E00127,0,Premium,753
+Sembawang,COSCO,E00124,0,Refrigerated,753
+Sembawang,COSCO,E00125,0,Refrigerated,753
+Sembawang,COSCO,E00126,1,Refrigerated,753
+Sembawang,COSCO,E00127,0,Refrigerated,753
 Sembawang,COSCO,E00128,1,Standard,630
-Sembawang,COSCO,E00129,0,Premium,753
-Sembawang,COSCO,E00130,0,Premium,753
+Sembawang,COSCO,E00129,0,Refrigerated,753
+Sembawang,COSCO,E00130,0,Refrigerated,753
 Sembawang,COSCO,E00131,1,Standard,630
 Sembawang,COSCO,E00132,1,Standard,630
 Sembawang,COSCO,E00133,0,Standard,630
 Sembawang,COSCO,E00134,1,Standard,630
-Sembawang,COSCO,E00135,0,Premium,753
-Sembawang,COSCO,E00136,0,Premium,753
-Sembawang,COSCO,E00137,1,Premium,753
-Tuas,COSCO,E00138,0,Premium,753
+Sembawang,COSCO,E00135,0,Refrigerated,753
+Sembawang,COSCO,E00136,0,Refrigerated,753
+Sembawang,COSCO,E00137,1,Refrigerated,753
+Tuas,COSCO,E00138,0,Refrigerated,753
 Tuas,COSCO,E00139,1,Standard,630
 Tuas,COSCO,E00140,1,Standard,630
 Tuas,COSCO,E00141,0,Standard,630
 Tuas,COSCO,E00142,0,Standard,630
-Tuas,COSCO,E00143,0,Premium,753
-Tuas,COSCO,E00144,0,Premium,753
+Tuas,COSCO,E00143,0,Refrigerated,753
+Tuas,COSCO,E00144,0,Refrigerated,753
 Tuas,COSCO,E00145,0,Standard,630
 Tuas,COSCO,E00146,0,Standard,630
 Tuas,COSCO,E00147,1,Standard,630
-Tuas,COSCO,E00148,0,Premium,753
-Tuas,COSCO,E00149,0,Premium,753
-Tuas,COSCO,E00150,0,Premium,753
+Tuas,COSCO,E00148,0,Refrigerated,753
+Tuas,COSCO,E00149,0,Refrigerated,753
+Tuas,COSCO,E00150,0,Refrigerated,753
 Tuas,COSCO,E00151,1,Standard,630
 Tuas,COSCO,E00152,0,Standard,630
-Tuas,COSCO,E00153,0,Premium,753
+Tuas,COSCO,E00153,0,Refrigerated,753
 Tuas,COSCO,E00154,0,Standard,630
 Tuas,COSCO,E00155,1,Standard,630
-Tuas,COSCO,E00156,0,Premium,753
-Tuas,COSCO,E00157,0,Premium,753
+Tuas,COSCO,E00156,0,Refrigerated,753
+Tuas,COSCO,E00157,0,Refrigerated,753
 Tuas,COSCO,E00158,1,Standard,630
 Tuas,COSCO,E00159,1,Standard,630
 Tuas,COSCO,E00160,0,Standard,630
-Tuas,COSCO,E00161,0,Premium,753
+Tuas,COSCO,E00161,0,Refrigerated,753
 Tuas,COSCO,E00162,0,Standard,630
 Tuas,COSCO,E00163,1,Standard,630
-Tuas,COSCO,E00164,0,Premium,753
-Tuas,COSCO,E00165,0,Premium,753
+Tuas,COSCO,E00164,0,Refrigerated,753
+Tuas,COSCO,E00165,0,Refrigerated,753
 Tuas,COSCO,E00166,1,Standard,630
 Tuas,COSCO,E00167,1,Standard,630
-Tuas,COSCO,E00168,0,Premium,753
-Tuas,COSCO,E00169,1,Premium,753
+Tuas,COSCO,E00168,0,Refrigerated,753
+Tuas,COSCO,E00169,1,Refrigerated,753
 Tuas,COSCO,E00170,1,Standard,630
 Tuas,COSCO,E00171,1,Standard,630
 Tuas,COSCO,E00172,1,Standard,630
 Tuas,COSCO,E00173,1,Standard,630
 Tuas,COSCO,E00174,0,Standard,630
 Tuas,COSCO,E00175,0,Standard,630
-Tuas,COSCO,E00176,1,Premium,753
-Tuas,COSCO,E00177,1,Premium,753
-Tuas,COSCO,E00178,1,Premium,753
+Tuas,COSCO,E00176,1,Refrigerated,753
+Tuas,COSCO,E00177,1,Refrigerated,753
+Tuas,COSCO,E00178,1,Refrigerated,753
 Tuas,COSCO,E00179,1,Standard,630
-Tuas,COSCO,E00180,1,Premium,753
-Tuas,COSCO,E00181,0,Premium,753
+Tuas,COSCO,E00180,1,Refrigerated,753
+Tuas,COSCO,E00181,0,Refrigerated,753
 Tuas,COSCO,E00182,0,Standard,630
 Tuas,COSCO,E00183,0,Standard,630
-Tuas,COSCO,E00184,0,Premium,753
+Tuas,COSCO,E00184,0,Refrigerated,753
 Tuas,COSCO,E00185,0,Standard,630
 Tuas,COSCO,E00186,0,Standard,630
 Tuas,COSCO,E00187,1,Standard,630
-Tuas,COSCO,E00188,1,Premium,753
-Tuas,COSCO,E00189,0,Premium,753
-Tuas,COSCO,E00190,1,Premium,753
+Tuas,COSCO,E00188,1,Refrigerated,753
+Tuas,COSCO,E00189,0,Refrigerated,753
+Tuas,COSCO,E00190,1,Refrigerated,753
 Tuas,COSCO,E00191,1,Standard,630
 Tuas,COSCO,E00192,0,Standard,630
-Tuas,COSCO,E00193,1,Premium,753
-Tuas,COSCO,E00194,1,Premium,753
-Tuas,COSCO,E00195,0,Premium,753
-Tuas,COSCO,E00196,0,Premium,753
+Tuas,COSCO,E00193,1,Refrigerated,753
+Tuas,COSCO,E00194,1,Refrigerated,753
+Tuas,COSCO,E00195,0,Refrigerated,753
+Tuas,COSCO,E00196,0,Refrigerated,753
 Tuas,COSCO,E00197,0,Standard,630
-Tuas,COSCO,E00198,1,Premium,753
-Tuas,COSCO,E00199,0,Premium,753
-Tuas,COSCO,E00200,1,Premium,753
-Tuas,COSCO,E00201,0,Premium,753
+Tuas,COSCO,E00198,1,Refrigerated,753
+Tuas,COSCO,E00199,0,Refrigerated,753
+Tuas,COSCO,E00200,1,Refrigerated,753
+Tuas,COSCO,E00201,0,Refrigerated,753
 Tuas,COSCO,E00202,0,Standard,630
 Tuas,COSCO,E00203,0,Standard,630
 Tuas,COSCO,E00204,0,Standard,630
-Tuas,COSCO,E00205,1,Premium,753
+Tuas,COSCO,E00205,1,Refrigerated,753
 Tuas,COSCO,E00206,1,Standard,630
 Tuas,COSCO,E00207,0,Standard,630
 Tuas,COSCO,E00208,1,Standard,630
-Tuas,COSCO,E00209,0,Premium,753
+Tuas,COSCO,E00209,0,Refrigerated,753
 Tuas,COSCO,E00210,1,Standard,630
 Tuas,COSCO,E00211,0,Standard,630
 Tuas,COSCO,E00212,0,Standard,630
 Tuas,COSCO,E00213,0,Standard,630
 Tuas,COSCO,E00214,1,Standard,630
-Tuas,COSCO,E00215,0,Premium,753
+Tuas,COSCO,E00215,0,Refrigerated,753
 Pasir Panjang,Maersk,M00001,1,Standard,706
 Pasir Panjang,Maersk,M00002,1,Standard,706
 Pasir Panjang,Maersk,M00003,0,Standard,706
 Pasir Panjang,Maersk,M00004,1,Standard,706
-Pasir Panjang,Maersk,M00005,1,Premium,763
+Pasir Panjang,Maersk,M00005,1,Refrigerated,763
 Pasir Panjang,Maersk,M00006,0,Standard,706
-Pasir Panjang,Maersk,M00007,0,Premium,763
-Pasir Panjang,Maersk,M00008,1,Premium,763
+Pasir Panjang,Maersk,M00007,0,Refrigerated,763
+Pasir Panjang,Maersk,M00008,1,Refrigerated,763
 Pasir Panjang,Maersk,M00009,1,Standard,706
-Pasir Panjang,Maersk,M00010,1,Premium,763
-Pasir Panjang,Maersk,M00011,1,Premium,763
-Pasir Panjang,Maersk,M00012,1,Premium,763
+Pasir Panjang,Maersk,M00010,1,Refrigerated,763
+Pasir Panjang,Maersk,M00011,1,Refrigerated,763
+Pasir Panjang,Maersk,M00012,1,Refrigerated,763
 Pasir Panjang,Maersk,M00013,0,Standard,706
-Pasir Panjang,Maersk,M00014,1,Premium,763
-Pasir Panjang,Maersk,M00015,1,Premium,763
+Pasir Panjang,Maersk,M00014,1,Refrigerated,763
+Pasir Panjang,Maersk,M00015,1,Refrigerated,763
 Pasir Panjang,Maersk,M00016,1,Standard,706
 Pasir Panjang,Maersk,M00017,0,Standard,706
 Pasir Panjang,Maersk,M00018,0,Standard,706
-Pasir Panjang,Maersk,M00019,0,Premium,763
+Pasir Panjang,Maersk,M00019,0,Refrigerated,763
 Pasir Panjang,Maersk,M00020,1,Standard,706
-Pasir Panjang,Maersk,M00021,1,Premium,763
-Pasir Panjang,Maersk,M00022,0,Premium,763
+Pasir Panjang,Maersk,M00021,1,Refrigerated,763
+Pasir Panjang,Maersk,M00022,0,Refrigerated,763
 Pasir Panjang,Maersk,M00023,1,Standard,706
-Pasir Panjang,Maersk,M00024,1,Premium,763
+Pasir Panjang,Maersk,M00024,1,Refrigerated,763
 Pasir Panjang,Maersk,M00025,0,Standard,706
 Pasir Panjang,Maersk,M00026,1,Standard,706
 Pasir Panjang,Maersk,M00027,1,Standard,706
-Pasir Panjang,Maersk,M00028,0,Premium,763
+Pasir Panjang,Maersk,M00028,0,Refrigerated,763
 Pasir Panjang,Maersk,M00029,1,Standard,706
-Pasir Panjang,Maersk,M00030,1,Premium,763
+Pasir Panjang,Maersk,M00030,1,Refrigerated,763
 Pasir Panjang,Maersk,M00031,0,Standard,706
-Pasir Panjang,Maersk,M00032,0,Premium,763
+Pasir Panjang,Maersk,M00032,0,Refrigerated,763
 Pasir Panjang,Maersk,M00033,1,Standard,706
 Pasir Panjang,Maersk,M00034,0,Standard,706
 Pasir Panjang,Maersk,M00035,1,Standard,706
 Pasir Panjang,Maersk,M00036,1,Standard,706
 Pasir Panjang,Maersk,M00037,0,Standard,706
-Pasir Panjang,Maersk,M00038,1,Premium,763
-Pasir Panjang,Maersk,M00039,1,Premium,763
-Pasir Panjang,Maersk,M00040,0,Premium,763
-Pasir Panjang,Maersk,M00041,1,Premium,763
+Pasir Panjang,Maersk,M00038,1,Refrigerated,763
+Pasir Panjang,Maersk,M00039,1,Refrigerated,763
+Pasir Panjang,Maersk,M00040,0,Refrigerated,763
+Pasir Panjang,Maersk,M00041,1,Refrigerated,763
 Pasir Panjang,Maersk,M00042,1,Standard,706
 Pasir Panjang,Maersk,M00043,1,Standard,706
-Pasir Panjang,Maersk,M00044,0,Premium,763
-Pasir Panjang,Maersk,M00045,0,Premium,763
-Pasir Panjang,Maersk,M00046,1,Premium,763
-Pasir Panjang,Maersk,M00047,1,Premium,763
+Pasir Panjang,Maersk,M00044,0,Refrigerated,763
+Pasir Panjang,Maersk,M00045,0,Refrigerated,763
+Pasir Panjang,Maersk,M00046,1,Refrigerated,763
+Pasir Panjang,Maersk,M00047,1,Refrigerated,763
 Pasir Panjang,Maersk,M00048,0,Standard,706
 Pasir Panjang,Maersk,M00049,1,Standard,706
-Pasir Panjang,Maersk,M00050,0,Premium,763
-Pasir Panjang,Maersk,M00051,1,Premium,763
+Pasir Panjang,Maersk,M00050,0,Refrigerated,763
+Pasir Panjang,Maersk,M00051,1,Refrigerated,763
 Pasir Panjang,Maersk,M00052,1,Standard,706
-Sembawang,Maersk,M00053,1,Premium,763
-Sembawang,Maersk,M00054,1,Premium,763
+Sembawang,Maersk,M00053,1,Refrigerated,763
+Sembawang,Maersk,M00054,1,Refrigerated,763
 Sembawang,Maersk,M00055,0,Standard,706
-Sembawang,Maersk,M00056,1,Premium,763
+Sembawang,Maersk,M00056,1,Refrigerated,763
 Sembawang,Maersk,M00057,1,Standard,706
 Sembawang,Maersk,M00058,1,Standard,706
 Sembawang,Maersk,M00059,1,Standard,706
-Sembawang,Maersk,M00060,1,Premium,763
-Sembawang,Maersk,M00061,1,Premium,763
-Sembawang,Maersk,M00062,0,Premium,763
+Sembawang,Maersk,M00060,1,Refrigerated,763
+Sembawang,Maersk,M00061,1,Refrigerated,763
+Sembawang,Maersk,M00062,0,Refrigerated,763
 Sembawang,Maersk,M00063,1,Standard,706
 Sembawang,Maersk,M00064,0,Standard,706
-Sembawang,Maersk,M00065,0,Premium,763
+Sembawang,Maersk,M00065,0,Refrigerated,763
 Sembawang,Maersk,M00066,1,Standard,706
 Sembawang,Maersk,M00067,1,Standard,706
 Sembawang,Maersk,M00068,1,Standard,706
 Sembawang,Maersk,M00069,0,Standard,706
 Sembawang,Maersk,M00070,0,Standard,706
 Sembawang,Maersk,M00071,0,Standard,706
-Sembawang,Maersk,M00072,1,Premium,763
+Sembawang,Maersk,M00072,1,Refrigerated,763
 Sembawang,Maersk,M00073,1,Standard,706
-Sembawang,Maersk,M00074,0,Premium,763
-Sembawang,Maersk,M00075,1,Premium,763
-Sembawang,Maersk,M00076,0,Premium,763
-Sembawang,Maersk,M00077,0,Premium,763
-Sembawang,Maersk,M00078,0,Premium,763
-Sembawang,Maersk,M00079,1,Premium,763
-Sembawang,Maersk,M00080,1,Premium,763
+Sembawang,Maersk,M00074,0,Refrigerated,763
+Sembawang,Maersk,M00075,1,Refrigerated,763
+Sembawang,Maersk,M00076,0,Refrigerated,763
+Sembawang,Maersk,M00077,0,Refrigerated,763
+Sembawang,Maersk,M00078,0,Refrigerated,763
+Sembawang,Maersk,M00079,1,Refrigerated,763
+Sembawang,Maersk,M00080,1,Refrigerated,763
 Sembawang,Maersk,M00081,1,Standard,706
 Sembawang,Maersk,M00082,0,Standard,706
 Sembawang,Maersk,M00083,0,Standard,706
-Sembawang,Maersk,M00084,1,Premium,763
+Sembawang,Maersk,M00084,1,Refrigerated,763
 Sembawang,Maersk,M00085,0,Standard,706
-Sembawang,Maersk,M00086,0,Premium,763
+Sembawang,Maersk,M00086,0,Refrigerated,763
 Sembawang,Maersk,M00087,1,Standard,706
-Sembawang,Maersk,M00088,1,Premium,763
+Sembawang,Maersk,M00088,1,Refrigerated,763
 Sembawang,Maersk,M00089,1,Standard,706
 Sembawang,Maersk,M00090,0,Standard,706
-Sembawang,Maersk,M00091,0,Premium,763
+Sembawang,Maersk,M00091,0,Refrigerated,763
 Sembawang,Maersk,M00092,0,Standard,706
-Sembawang,Maersk,M00093,0,Premium,763
+Sembawang,Maersk,M00093,0,Refrigerated,763
 Sembawang,Maersk,M00094,0,Standard,706
-Sembawang,Maersk,M00095,1,Premium,763
-Sembawang,Maersk,M00096,0,Premium,763
+Sembawang,Maersk,M00095,1,Refrigerated,763
+Sembawang,Maersk,M00096,0,Refrigerated,763
 Sembawang,Maersk,M00097,0,Standard,706
 Sembawang,Maersk,M00098,0,Standard,706
-Sembawang,Maersk,M00099,0,Premium,763
-Sembawang,Maersk,M00100,1,Premium,763
+Sembawang,Maersk,M00099,0,Refrigerated,763
+Sembawang,Maersk,M00100,1,Refrigerated,763
 Sembawang,Maersk,M00101,0,Standard,706
-Sembawang,Maersk,M00102,1,Premium,763
+Sembawang,Maersk,M00102,1,Refrigerated,763
 Sembawang,Maersk,M00103,0,Standard,706
-Sembawang,Maersk,M00104,0,Premium,763
-Sembawang,Maersk,M00105,1,Premium,763
+Sembawang,Maersk,M00104,0,Refrigerated,763
+Sembawang,Maersk,M00105,1,Refrigerated,763
 Sembawang,Maersk,M00106,1,Standard,706
-Sembawang,Maersk,M00107,1,Premium,763
-Sembawang,Maersk,M00108,1,Premium,763
-Sembawang,Maersk,M00109,1,Premium,763
-Sembawang,Maersk,M00110,0,Premium,763
-Sembawang,Maersk,M00111,1,Premium,763
-Sembawang,Maersk,M00112,0,Premium,763
-Sembawang,Maersk,M00113,0,Premium,763
-Sembawang,Maersk,M00114,0,Premium,763
+Sembawang,Maersk,M00107,1,Refrigerated,763
+Sembawang,Maersk,M00108,1,Refrigerated,763
+Sembawang,Maersk,M00109,1,Refrigerated,763
+Sembawang,Maersk,M00110,0,Refrigerated,763
+Sembawang,Maersk,M00111,1,Refrigerated,763
+Sembawang,Maersk,M00112,0,Refrigerated,763
+Sembawang,Maersk,M00113,0,Refrigerated,763
+Sembawang,Maersk,M00114,0,Refrigerated,763
 Sembawang,Maersk,M00115,1,Standard,706
-Sembawang,Maersk,M00116,1,Premium,763
-Sembawang,Maersk,M00117,1,Premium,763
-Sembawang,Maersk,M00118,0,Premium,763
-Sembawang,Maersk,M00119,1,Premium,763
+Sembawang,Maersk,M00116,1,Refrigerated,763
+Sembawang,Maersk,M00117,1,Refrigerated,763
+Sembawang,Maersk,M00118,0,Refrigerated,763
+Sembawang,Maersk,M00119,1,Refrigerated,763
 Sembawang,Maersk,M00120,0,Standard,706
 Sembawang,Maersk,M00121,0,Standard,706
 Sembawang,Maersk,M00122,0,Standard,706
-Sembawang,Maersk,M00123,0,Premium,763
-Sembawang,Maersk,M00124,0,Premium,763
-Sembawang,Maersk,M00125,1,Premium,763
+Sembawang,Maersk,M00123,0,Refrigerated,763
+Sembawang,Maersk,M00124,0,Refrigerated,763
+Sembawang,Maersk,M00125,1,Refrigerated,763
 Sembawang,Maersk,M00126,1,Standard,706
 Tuas,Maersk,M00127,0,Standard,706
 Tuas,Maersk,M00128,1,Standard,706
 Tuas,Maersk,M00129,1,Standard,706
-Tuas,Maersk,M00130,0,Premium,763
-Tuas,Maersk,M00131,1,Premium,763
-Tuas,Maersk,M00132,1,Premium,763
-Tuas,Maersk,M00133,1,Premium,763
+Tuas,Maersk,M00130,0,Refrigerated,763
+Tuas,Maersk,M00131,1,Refrigerated,763
+Tuas,Maersk,M00132,1,Refrigerated,763
+Tuas,Maersk,M00133,1,Refrigerated,763
 Tuas,Maersk,M00134,1,Standard,706
 Tuas,Maersk,M00135,0,Standard,706
 Tuas,Maersk,M00136,1,Standard,706
-Tuas,Maersk,M00137,1,Premium,763
-Tuas,Maersk,M00138,0,Premium,763
+Tuas,Maersk,M00137,1,Refrigerated,763
+Tuas,Maersk,M00138,0,Refrigerated,763
 Tuas,Maersk,M00139,0,Standard,706
 Tuas,Maersk,M00140,1,Standard,706
 Tuas,Maersk,M00141,0,Standard,706
-Tuas,Maersk,M00142,0,Premium,763
+Tuas,Maersk,M00142,0,Refrigerated,763
 Tuas,Maersk,M00143,1,Standard,706
 Tuas,Maersk,M00144,0,Standard,706
 Tuas,Maersk,M00145,0,Standard,706
 Tuas,Maersk,M00146,1,Standard,706
-Tuas,Maersk,M00147,1,Premium,763
+Tuas,Maersk,M00147,1,Refrigerated,763
 Tuas,Maersk,M00148,0,Standard,706
 Tuas,Maersk,M00149,1,Standard,706
-Tuas,Maersk,M00150,0,Premium,763
+Tuas,Maersk,M00150,0,Refrigerated,763
 Tuas,Maersk,M00151,1,Standard,706
-Tuas,Maersk,M00152,0,Premium,763
-Tuas,Maersk,M00153,1,Premium,763
+Tuas,Maersk,M00152,0,Refrigerated,763
+Tuas,Maersk,M00153,1,Refrigerated,763
 Tuas,Maersk,M00154,1,Standard,706
-Tuas,Maersk,M00155,1,Premium,763
-Tuas,Maersk,M00156,0,Premium,763
+Tuas,Maersk,M00155,1,Refrigerated,763
+Tuas,Maersk,M00156,0,Refrigerated,763
 Tuas,Maersk,M00157,0,Standard,706
-Tuas,Maersk,M00158,1,Premium,763
+Tuas,Maersk,M00158,1,Refrigerated,763
 Tuas,Maersk,M00159,1,Standard,706
-Tuas,Maersk,M00160,1,Premium,763
+Tuas,Maersk,M00160,1,Refrigerated,763
 Tuas,Maersk,M00161,0,Standard,706
-Tuas,Maersk,M00162,0,Premium,763
+Tuas,Maersk,M00162,0,Refrigerated,763
 Tuas,Maersk,M00163,1,Standard,706
 Tuas,Maersk,M00164,0,Standard,706
-Tuas,Maersk,M00165,0,Premium,763
-Tuas,Maersk,M00166,0,Premium,763
+Tuas,Maersk,M00165,0,Refrigerated,763
+Tuas,Maersk,M00166,0,Refrigerated,763
 Tuas,Maersk,M00167,1,Standard,706
-Tuas,Maersk,M00168,1,Premium,763
-Tuas,Maersk,M00169,1,Premium,763
+Tuas,Maersk,M00168,1,Refrigerated,763
+Tuas,Maersk,M00169,1,Refrigerated,763
 Tuas,Maersk,M00170,0,Standard,706
-Tuas,Maersk,M00171,1,Premium,763
-Tuas,Maersk,M00172,0,Premium,763
+Tuas,Maersk,M00171,1,Refrigerated,763
+Tuas,Maersk,M00172,0,Refrigerated,763
 Tuas,Maersk,M00173,0,Standard,706
 Tuas,Maersk,M00174,0,Standard,706
-Tuas,Maersk,M00175,1,Premium,763
-Tuas,Maersk,M00176,1,Premium,763
+Tuas,Maersk,M00175,1,Refrigerated,763
+Tuas,Maersk,M00176,1,Refrigerated,763
 Tuas,Maersk,M00177,0,Standard,706
-Tuas,Maersk,M00178,1,Premium,763
-Tuas,Maersk,M00179,1,Premium,763
+Tuas,Maersk,M00178,1,Refrigerated,763
+Tuas,Maersk,M00179,1,Refrigerated,763
 Tuas,Maersk,M00180,1,Standard,706
 Tuas,Maersk,M00181,1,Standard,706
 Tuas,Maersk,M00182,0,Standard,706
 Tuas,Maersk,M00183,1,Standard,706
-Tuas,Maersk,M00184,1,Premium,763
+Tuas,Maersk,M00184,1,Refrigerated,763
 Tuas,Maersk,M00185,0,Standard,706
-Tuas,Maersk,M00186,0,Premium,763
-Tuas,Maersk,M00187,0,Premium,763
+Tuas,Maersk,M00186,0,Refrigerated,763
+Tuas,Maersk,M00187,0,Refrigerated,763
 Tuas,Maersk,M00188,1,Standard,706
 Tuas,Maersk,M00189,0,Standard,706
 Tuas,Maersk,M00190,1,Standard,706
 Tuas,Maersk,M00191,1,Standard,706
 Tuas,Maersk,M00192,0,Standard,706
-Tuas,Maersk,M00193,0,Premium,763
-Tuas,Maersk,M00194,1,Premium,763
+Tuas,Maersk,M00193,0,Refrigerated,763
+Tuas,Maersk,M00194,1,Refrigerated,763
 Tuas,Maersk,M00195,1,Standard,706
 Tuas,Maersk,M00196,0,Standard,706
 Tuas,Maersk,M00197,0,Standard,706
-Tuas,Maersk,M00198,1,Premium,763
+Tuas,Maersk,M00198,1,Refrigerated,763
 Tuas,Maersk,M00199,1,Standard,706
 Tuas,Maersk,M00200,0,Standard,706
-Tuas,Maersk,M00201,1,Premium,763
-Tuas,Maersk,M00202,0,Premium,763
+Tuas,Maersk,M00201,1,Refrigerated,763
+Tuas,Maersk,M00202,0,Refrigerated,763
 Tuas,Maersk,M00203,1,Standard,706
-Tuas,Maersk,M00204,1,Premium,763
-Tuas,Maersk,M00205,0,Premium,763
-Tuas,Maersk,M00206,1,Premium,763
+Tuas,Maersk,M00204,1,Refrigerated,763
+Tuas,Maersk,M00205,0,Refrigerated,763
+Tuas,Maersk,M00206,1,Refrigerated,763
 Pasir Panjang,CMA CGM,N00001,1,Standard,587
 Pasir Panjang,CMA CGM,N00002,1,Standard,587
 Pasir Panjang,CMA CGM,N00003,1,Standard,587
 Pasir Panjang,CMA CGM,N00004,1,Standard,587
-Pasir Panjang,CMA CGM,N00005,1,Premium,781
+Pasir Panjang,CMA CGM,N00005,1,Refrigerated,781
 Pasir Panjang,CMA CGM,N00006,0,Standard,587
 Pasir Panjang,CMA CGM,N00007,0,Standard,587
 Pasir Panjang,CMA CGM,N00008,0,Standard,587
-Pasir Panjang,CMA CGM,N00009,0,Premium,781
+Pasir Panjang,CMA CGM,N00009,0,Refrigerated,781
 Pasir Panjang,CMA CGM,N00010,1,Standard,587
-Pasir Panjang,CMA CGM,N00011,1,Premium,781
-Pasir Panjang,CMA CGM,N00012,1,Premium,781
-Pasir Panjang,CMA CGM,N00013,0,Premium,781
-Pasir Panjang,CMA CGM,N00014,0,Premium,781
+Pasir Panjang,CMA CGM,N00011,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00012,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00013,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00014,0,Refrigerated,781
 Pasir Panjang,CMA CGM,N00015,1,Standard,587
-Pasir Panjang,CMA CGM,N00016,0,Premium,781
+Pasir Panjang,CMA CGM,N00016,0,Refrigerated,781
 Pasir Panjang,CMA CGM,N00017,0,Standard,587
-Pasir Panjang,CMA CGM,N00018,0,Premium,781
-Pasir Panjang,CMA CGM,N00019,1,Premium,781
-Pasir Panjang,CMA CGM,N00020,0,Premium,781
-Pasir Panjang,CMA CGM,N00021,1,Premium,781
-Pasir Panjang,CMA CGM,N00022,1,Premium,781
-Pasir Panjang,CMA CGM,N00023,1,Premium,781
+Pasir Panjang,CMA CGM,N00018,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00019,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00020,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00021,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00022,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00023,1,Refrigerated,781
 Pasir Panjang,CMA CGM,N00024,0,Standard,587
 Pasir Panjang,CMA CGM,N00025,0,Standard,587
 Pasir Panjang,CMA CGM,N00026,0,Standard,587
-Pasir Panjang,CMA CGM,N00027,0,Premium,781
-Pasir Panjang,CMA CGM,N00028,0,Premium,781
-Pasir Panjang,CMA CGM,N00029,0,Premium,781
-Pasir Panjang,CMA CGM,N00030,1,Premium,781
-Pasir Panjang,CMA CGM,N00031,0,Premium,781
+Pasir Panjang,CMA CGM,N00027,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00028,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00029,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00030,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00031,0,Refrigerated,781
 Pasir Panjang,CMA CGM,N00032,0,Standard,587
 Pasir Panjang,CMA CGM,N00033,1,Standard,587
-Pasir Panjang,CMA CGM,N00034,1,Premium,781
+Pasir Panjang,CMA CGM,N00034,1,Refrigerated,781
 Pasir Panjang,CMA CGM,N00035,0,Standard,587
 Pasir Panjang,CMA CGM,N00036,1,Standard,587
 Pasir Panjang,CMA CGM,N00037,1,Standard,587
-Pasir Panjang,CMA CGM,N00038,1,Premium,781
-Pasir Panjang,CMA CGM,N00039,0,Premium,781
-Pasir Panjang,CMA CGM,N00040,1,Premium,781
-Pasir Panjang,CMA CGM,N00041,0,Premium,781
+Pasir Panjang,CMA CGM,N00038,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00039,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00040,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00041,0,Refrigerated,781
 Pasir Panjang,CMA CGM,N00042,1,Standard,587
 Pasir Panjang,CMA CGM,N00043,0,Standard,587
 Pasir Panjang,CMA CGM,N00044,0,Standard,587
 Pasir Panjang,CMA CGM,N00045,1,Standard,587
-Pasir Panjang,CMA CGM,N00046,0,Premium,781
+Pasir Panjang,CMA CGM,N00046,0,Refrigerated,781
 Pasir Panjang,CMA CGM,N00047,1,Standard,587
 Pasir Panjang,CMA CGM,N00048,1,Standard,587
-Pasir Panjang,CMA CGM,N00049,1,Premium,781
+Pasir Panjang,CMA CGM,N00049,1,Refrigerated,781
 Pasir Panjang,CMA CGM,N00050,0,Standard,587
 Pasir Panjang,CMA CGM,N00051,1,Standard,587
-Pasir Panjang,CMA CGM,N00052,1,Premium,781
-Pasir Panjang,CMA CGM,N00053,1,Premium,781
-Pasir Panjang,CMA CGM,N00054,1,Premium,781
+Pasir Panjang,CMA CGM,N00052,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00053,1,Refrigerated,781
+Pasir Panjang,CMA CGM,N00054,1,Refrigerated,781
 Pasir Panjang,CMA CGM,N00055,0,Standard,587
-Pasir Panjang,CMA CGM,N00056,1,Premium,781
+Pasir Panjang,CMA CGM,N00056,1,Refrigerated,781
 Pasir Panjang,CMA CGM,N00057,0,Standard,587
-Pasir Panjang,CMA CGM,N00058,0,Premium,781
-Pasir Panjang,CMA CGM,N00059,0,Premium,781
-Pasir Panjang,CMA CGM,N00060,1,Premium,781
+Pasir Panjang,CMA CGM,N00058,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00059,0,Refrigerated,781
+Pasir Panjang,CMA CGM,N00060,1,Refrigerated,781
 Pasir Panjang,CMA CGM,N00061,0,Standard,587
 Pasir Panjang,CMA CGM,N00062,1,Standard,587
 Pasir Panjang,CMA CGM,N00063,1,Standard,587
-Sembawang,CMA CGM,N00064,1,Premium,781
-Sembawang,CMA CGM,N00065,0,Premium,781
+Sembawang,CMA CGM,N00064,1,Refrigerated,781
+Sembawang,CMA CGM,N00065,0,Refrigerated,781
 Sembawang,CMA CGM,N00066,1,Standard,587
-Sembawang,CMA CGM,N00067,1,Premium,781
+Sembawang,CMA CGM,N00067,1,Refrigerated,781
 Sembawang,CMA CGM,N00068,0,Standard,587
-Sembawang,CMA CGM,N00069,0,Premium,781
+Sembawang,CMA CGM,N00069,0,Refrigerated,781
 Sembawang,CMA CGM,N00070,1,Standard,587
-Sembawang,CMA CGM,N00071,1,Premium,781
-Sembawang,CMA CGM,N00072,1,Premium,781
-Sembawang,CMA CGM,N00073,0,Premium,781
-Sembawang,CMA CGM,N00074,0,Premium,781
+Sembawang,CMA CGM,N00071,1,Refrigerated,781
+Sembawang,CMA CGM,N00072,1,Refrigerated,781
+Sembawang,CMA CGM,N00073,0,Refrigerated,781
+Sembawang,CMA CGM,N00074,0,Refrigerated,781
 Sembawang,CMA CGM,N00075,1,Standard,587
 Sembawang,CMA CGM,N00076,1,Standard,587
 Sembawang,CMA CGM,N00077,0,Standard,587
-Sembawang,CMA CGM,N00078,0,Premium,781
+Sembawang,CMA CGM,N00078,0,Refrigerated,781
 Sembawang,CMA CGM,N00079,0,Standard,587
-Sembawang,CMA CGM,N00080,1,Premium,781
+Sembawang,CMA CGM,N00080,1,Refrigerated,781
 Sembawang,CMA CGM,N00081,0,Standard,587
 Sembawang,CMA CGM,N00082,1,Standard,587
 Sembawang,CMA CGM,N00083,0,Standard,587
-Sembawang,CMA CGM,N00084,0,Premium,781
-Sembawang,CMA CGM,N00085,1,Premium,781
-Sembawang,CMA CGM,N00086,1,Premium,781
-Sembawang,CMA CGM,N00087,1,Premium,781
+Sembawang,CMA CGM,N00084,0,Refrigerated,781
+Sembawang,CMA CGM,N00085,1,Refrigerated,781
+Sembawang,CMA CGM,N00086,1,Refrigerated,781
+Sembawang,CMA CGM,N00087,1,Refrigerated,781
 Sembawang,CMA CGM,N00088,1,Standard,587
-Sembawang,CMA CGM,N00089,0,Premium,781
+Sembawang,CMA CGM,N00089,0,Refrigerated,781
 Sembawang,CMA CGM,N00090,1,Standard,587
 Sembawang,CMA CGM,N00091,0,Standard,587
-Sembawang,CMA CGM,N00092,1,Premium,781
-Sembawang,CMA CGM,N00093,0,Premium,781
+Sembawang,CMA CGM,N00092,1,Refrigerated,781
+Sembawang,CMA CGM,N00093,0,Refrigerated,781
 Sembawang,CMA CGM,N00094,1,Standard,587
 Sembawang,CMA CGM,N00095,1,Standard,587
-Sembawang,CMA CGM,N00096,1,Premium,781
+Sembawang,CMA CGM,N00096,1,Refrigerated,781
 Sembawang,CMA CGM,N00097,1,Standard,587
-Sembawang,CMA CGM,N00098,1,Premium,781
+Sembawang,CMA CGM,N00098,1,Refrigerated,781
 Sembawang,CMA CGM,N00099,0,Standard,587
 Sembawang,CMA CGM,N00100,1,Standard,587
 Sembawang,CMA CGM,N00101,1,Standard,587
 Sembawang,CMA CGM,N00102,0,Standard,587
-Sembawang,CMA CGM,N00103,0,Premium,781
-Sembawang,CMA CGM,N00104,1,Premium,781
+Sembawang,CMA CGM,N00103,0,Refrigerated,781
+Sembawang,CMA CGM,N00104,1,Refrigerated,781
 Sembawang,CMA CGM,N00105,1,Standard,587
 Sembawang,CMA CGM,N00106,0,Standard,587
 Sembawang,CMA CGM,N00107,1,Standard,587
-Sembawang,CMA CGM,N00108,0,Premium,781
-Sembawang,CMA CGM,N00109,1,Premium,781
-Sembawang,CMA CGM,N00110,1,Premium,781
+Sembawang,CMA CGM,N00108,0,Refrigerated,781
+Sembawang,CMA CGM,N00109,1,Refrigerated,781
+Sembawang,CMA CGM,N00110,1,Refrigerated,781
 Sembawang,CMA CGM,N00111,1,Standard,587
 Sembawang,CMA CGM,N00112,0,Standard,587
 Sembawang,CMA CGM,N00113,0,Standard,587
-Sembawang,CMA CGM,N00114,0,Premium,781
+Sembawang,CMA CGM,N00114,0,Refrigerated,781
 Sembawang,CMA CGM,N00115,1,Standard,587
-Sembawang,CMA CGM,N00116,1,Premium,781
-Sembawang,CMA CGM,N00117,1,Premium,781
-Sembawang,CMA CGM,N00118,1,Premium,781
+Sembawang,CMA CGM,N00116,1,Refrigerated,781
+Sembawang,CMA CGM,N00117,1,Refrigerated,781
+Sembawang,CMA CGM,N00118,1,Refrigerated,781
 Sembawang,CMA CGM,N00119,0,Standard,587
-Tuas,CMA CGM,N00120,1,Premium,781
-Tuas,CMA CGM,N00121,1,Premium,781
+Tuas,CMA CGM,N00120,1,Refrigerated,781
+Tuas,CMA CGM,N00121,1,Refrigerated,781
 Tuas,CMA CGM,N00122,1,Standard,587
-Tuas,CMA CGM,N00123,1,Premium,781
+Tuas,CMA CGM,N00123,1,Refrigerated,781
 Tuas,CMA CGM,N00124,1,Standard,587
 Tuas,CMA CGM,N00125,1,Standard,587
 Tuas,CMA CGM,N00126,0,Standard,587
 Tuas,CMA CGM,N00127,0,Standard,587
-Tuas,CMA CGM,N00128,0,Premium,781
+Tuas,CMA CGM,N00128,0,Refrigerated,781
 Tuas,CMA CGM,N00129,0,Standard,587
-Tuas,CMA CGM,N00130,1,Premium,781
+Tuas,CMA CGM,N00130,1,Refrigerated,781
 Tuas,CMA CGM,N00131,0,Standard,587
-Tuas,CMA CGM,N00132,1,Premium,781
-Tuas,CMA CGM,N00133,1,Premium,781
-Tuas,CMA CGM,N00134,1,Premium,781
-Tuas,CMA CGM,N00135,0,Premium,781
+Tuas,CMA CGM,N00132,1,Refrigerated,781
+Tuas,CMA CGM,N00133,1,Refrigerated,781
+Tuas,CMA CGM,N00134,1,Refrigerated,781
+Tuas,CMA CGM,N00135,0,Refrigerated,781
 Tuas,CMA CGM,N00136,1,Standard,587
 Tuas,CMA CGM,N00137,1,Standard,587
-Tuas,CMA CGM,N00138,0,Premium,781
+Tuas,CMA CGM,N00138,0,Refrigerated,781
 Tuas,CMA CGM,N00139,0,Standard,587
-Tuas,CMA CGM,N00140,1,Premium,781
+Tuas,CMA CGM,N00140,1,Refrigerated,781
 Tuas,CMA CGM,N00141,0,Standard,587
 Tuas,CMA CGM,N00142,1,Standard,587
-Tuas,CMA CGM,N00143,0,Premium,781
-Tuas,CMA CGM,N00144,0,Premium,781
+Tuas,CMA CGM,N00143,0,Refrigerated,781
+Tuas,CMA CGM,N00144,0,Refrigerated,781
 Tuas,CMA CGM,N00145,1,Standard,587
 Tuas,CMA CGM,N00146,0,Standard,587
-Tuas,CMA CGM,N00147,0,Premium,781
-Tuas,CMA CGM,N00148,1,Premium,781
+Tuas,CMA CGM,N00147,0,Refrigerated,781
+Tuas,CMA CGM,N00148,1,Refrigerated,781
 Tuas,CMA CGM,N00149,1,Standard,587
 Tuas,CMA CGM,N00150,0,Standard,587
 Tuas,CMA CGM,N00151,1,Standard,587
-Tuas,CMA CGM,N00152,0,Premium,781
+Tuas,CMA CGM,N00152,0,Refrigerated,781
 Tuas,CMA CGM,N00153,1,Standard,587
 Tuas,CMA CGM,N00154,1,Standard,587
-Tuas,CMA CGM,N00155,1,Premium,781
-Tuas,CMA CGM,N00156,1,Premium,781
-Tuas,CMA CGM,N00157,0,Premium,781
-Tuas,CMA CGM,N00158,1,Premium,781
+Tuas,CMA CGM,N00155,1,Refrigerated,781
+Tuas,CMA CGM,N00156,1,Refrigerated,781
+Tuas,CMA CGM,N00157,0,Refrigerated,781
+Tuas,CMA CGM,N00158,1,Refrigerated,781
 Tuas,CMA CGM,N00159,0,Standard,587
 Tuas,CMA CGM,N00160,0,Standard,587
-Tuas,CMA CGM,N00161,0,Premium,781
+Tuas,CMA CGM,N00161,0,Refrigerated,781
 Tuas,CMA CGM,N00162,1,Standard,587
 Tuas,CMA CGM,N00163,0,Standard,587
-Tuas,CMA CGM,N00164,1,Premium,781
+Tuas,CMA CGM,N00164,1,Refrigerated,781
 Tuas,CMA CGM,N00165,0,Standard,587
 Tuas,CMA CGM,N00166,1,Standard,587
 Tuas,CMA CGM,N00167,0,Standard,587
-Tuas,CMA CGM,N00168,0,Premium,781
-Tuas,CMA CGM,N00169,1,Premium,781
-Tuas,CMA CGM,N00170,0,Premium,781
+Tuas,CMA CGM,N00168,0,Refrigerated,781
+Tuas,CMA CGM,N00169,1,Refrigerated,781
+Tuas,CMA CGM,N00170,0,Refrigerated,781
 Tuas,CMA CGM,N00171,1,Standard,587
-Tuas,CMA CGM,N00172,0,Premium,781
-Tuas,CMA CGM,N00173,0,Premium,781
-Tuas,CMA CGM,N00174,1,Premium,781
+Tuas,CMA CGM,N00172,0,Refrigerated,781
+Tuas,CMA CGM,N00173,0,Refrigerated,781
+Tuas,CMA CGM,N00174,1,Refrigerated,781
 Tuas,CMA CGM,N00175,1,Standard,587
-Pasir Panjang,Evergreen,UC00001,0,Premium,649
+Pasir Panjang,Evergreen,UC00001,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00002,0,Standard,501
 Pasir Panjang,Evergreen,UC00003,1,Standard,501
-Pasir Panjang,Evergreen,UC00004,0,Premium,649
+Pasir Panjang,Evergreen,UC00004,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00005,0,Standard,501
-Pasir Panjang,Evergreen,UC00006,0,Premium,649
-Pasir Panjang,Evergreen,UC00007,1,Premium,649
-Pasir Panjang,Evergreen,UC00008,0,Premium,649
+Pasir Panjang,Evergreen,UC00006,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00007,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00008,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00009,0,Standard,501
-Pasir Panjang,Evergreen,UC00010,1,Premium,649
+Pasir Panjang,Evergreen,UC00010,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00011,0,Standard,501
-Pasir Panjang,Evergreen,UC00012,1,Premium,649
+Pasir Panjang,Evergreen,UC00012,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00013,1,Standard,501
-Pasir Panjang,Evergreen,UC00014,1,Premium,649
-Pasir Panjang,Evergreen,UC00015,1,Premium,649
+Pasir Panjang,Evergreen,UC00014,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00015,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00016,1,Standard,501
-Pasir Panjang,Evergreen,UC00017,0,Premium,649
-Pasir Panjang,Evergreen,UC00018,0,Premium,649
-Pasir Panjang,Evergreen,UC00019,1,Premium,649
+Pasir Panjang,Evergreen,UC00017,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00018,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00019,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00020,0,Standard,501
 Pasir Panjang,Evergreen,UC00021,1,Standard,501
 Pasir Panjang,Evergreen,UC00022,0,Standard,501
 Pasir Panjang,Evergreen,UC00023,1,Standard,501
 Pasir Panjang,Evergreen,UC00024,1,Standard,501
-Pasir Panjang,Evergreen,UC00025,1,Premium,649
-Pasir Panjang,Evergreen,UC00026,0,Premium,649
-Pasir Panjang,Evergreen,UC00027,1,Premium,649
-Pasir Panjang,Evergreen,UC00028,0,Premium,649
+Pasir Panjang,Evergreen,UC00025,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00026,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00027,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00028,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00029,0,Standard,501
 Pasir Panjang,Evergreen,UC00030,0,Standard,501
 Pasir Panjang,Evergreen,UC00031,1,Standard,501
 Pasir Panjang,Evergreen,UC00032,0,Standard,501
-Pasir Panjang,Evergreen,UC00033,1,Premium,649
-Pasir Panjang,Evergreen,UC00034,1,Premium,649
-Pasir Panjang,Evergreen,UC00035,0,Premium,649
+Pasir Panjang,Evergreen,UC00033,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00034,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00035,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00036,1,Standard,501
-Pasir Panjang,Evergreen,UC00037,1,Premium,649
+Pasir Panjang,Evergreen,UC00037,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00038,0,Standard,501
-Pasir Panjang,Evergreen,UC00039,1,Premium,649
-Pasir Panjang,Evergreen,UC00040,0,Premium,649
-Pasir Panjang,Evergreen,UC00041,1,Premium,649
-Pasir Panjang,Evergreen,UC00042,1,Premium,649
-Pasir Panjang,Evergreen,UC00043,1,Premium,649
-Pasir Panjang,Evergreen,UC00044,0,Premium,649
-Pasir Panjang,Evergreen,UC00045,1,Premium,649
+Pasir Panjang,Evergreen,UC00039,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00040,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00041,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00042,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00043,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00044,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00045,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00046,1,Standard,501
-Pasir Panjang,Evergreen,UC00047,1,Premium,649
-Pasir Panjang,Evergreen,UC00048,0,Premium,649
-Pasir Panjang,Evergreen,UC00049,0,Premium,649
+Pasir Panjang,Evergreen,UC00047,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00048,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00049,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00050,1,Standard,501
-Pasir Panjang,Evergreen,UC00051,0,Premium,649
-Pasir Panjang,Evergreen,UC00052,1,Premium,649
-Pasir Panjang,Evergreen,UC00053,0,Premium,649
-Pasir Panjang,Evergreen,UC00054,1,Premium,649
-Pasir Panjang,Evergreen,UC00055,0,Premium,649
-Pasir Panjang,Evergreen,UC00056,1,Premium,649
+Pasir Panjang,Evergreen,UC00051,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00052,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00053,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00054,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00055,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00056,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00057,0,Standard,501
 Pasir Panjang,Evergreen,UC00058,1,Standard,501
 Pasir Panjang,Evergreen,UC00059,0,Standard,501
-Pasir Panjang,Evergreen,UC00060,0,Premium,649
-Pasir Panjang,Evergreen,UC00061,1,Premium,649
-Pasir Panjang,Evergreen,UC00062,0,Premium,649
+Pasir Panjang,Evergreen,UC00060,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00061,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00062,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00063,1,Standard,501
 Pasir Panjang,Evergreen,UC00064,1,Standard,501
-Pasir Panjang,Evergreen,UC00065,1,Premium,649
-Pasir Panjang,Evergreen,UC00066,1,Premium,649
+Pasir Panjang,Evergreen,UC00065,1,Refrigerated,649
+Pasir Panjang,Evergreen,UC00066,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00067,0,Standard,501
-Pasir Panjang,Evergreen,UC00068,0,Premium,649
-Pasir Panjang,Evergreen,UC00069,0,Premium,649
-Pasir Panjang,Evergreen,UC00070,0,Premium,649
+Pasir Panjang,Evergreen,UC00068,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00069,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00070,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00071,0,Standard,501
-Pasir Panjang,Evergreen,UC00072,1,Premium,649
+Pasir Panjang,Evergreen,UC00072,1,Refrigerated,649
 Pasir Panjang,Evergreen,UC00073,1,Standard,501
-Pasir Panjang,Evergreen,UC00074,0,Premium,649
+Pasir Panjang,Evergreen,UC00074,0,Refrigerated,649
 Pasir Panjang,Evergreen,UC00075,0,Standard,501
 Pasir Panjang,Evergreen,UC00076,1,Standard,501
-Pasir Panjang,Evergreen,UC00077,0,Premium,649
-Pasir Panjang,Evergreen,UC00078,0,Premium,649
-Sembawang,Evergreen,UC00079,0,Premium,649
-Sembawang,Evergreen,UC00080,0,Premium,649
-Sembawang,Evergreen,UC00081,1,Premium,649
-Sembawang,Evergreen,UC00082,1,Premium,649
+Pasir Panjang,Evergreen,UC00077,0,Refrigerated,649
+Pasir Panjang,Evergreen,UC00078,0,Refrigerated,649
+Sembawang,Evergreen,UC00079,0,Refrigerated,649
+Sembawang,Evergreen,UC00080,0,Refrigerated,649
+Sembawang,Evergreen,UC00081,1,Refrigerated,649
+Sembawang,Evergreen,UC00082,1,Refrigerated,649
 Sembawang,Evergreen,UC00083,0,Standard,501
 Sembawang,Evergreen,UC00084,0,Standard,501
 Sembawang,Evergreen,UC00085,0,Standard,501
-Sembawang,Evergreen,UC00086,1,Premium,649
-Sembawang,Evergreen,UC00087,1,Premium,649
-Sembawang,Evergreen,UC00088,0,Premium,649
+Sembawang,Evergreen,UC00086,1,Refrigerated,649
+Sembawang,Evergreen,UC00087,1,Refrigerated,649
+Sembawang,Evergreen,UC00088,0,Refrigerated,649
 Sembawang,Evergreen,UC00089,1,Standard,501
 Sembawang,Evergreen,UC00090,1,Standard,501
-Sembawang,Evergreen,UC00091,0,Premium,649
-Sembawang,Evergreen,UC00092,0,Premium,649
+Sembawang,Evergreen,UC00091,0,Refrigerated,649
+Sembawang,Evergreen,UC00092,0,Refrigerated,649
 Sembawang,Evergreen,UC00093,1,Standard,501
 Sembawang,Evergreen,UC00094,0,Standard,501
 Sembawang,Evergreen,UC00095,1,Standard,501
 Sembawang,Evergreen,UC00096,1,Standard,501
 Sembawang,Evergreen,UC00097,0,Standard,501
-Sembawang,Evergreen,UC00098,0,Premium,649
+Sembawang,Evergreen,UC00098,0,Refrigerated,649
 Sembawang,Evergreen,UC00099,1,Standard,501
-Sembawang,Evergreen,UC00100,1,Premium,649
+Sembawang,Evergreen,UC00100,1,Refrigerated,649
 Sembawang,Evergreen,UC00101,1,Standard,501
-Sembawang,Evergreen,UC00102,0,Premium,649
-Sembawang,Evergreen,UC00103,1,Premium,649
+Sembawang,Evergreen,UC00102,0,Refrigerated,649
+Sembawang,Evergreen,UC00103,1,Refrigerated,649
 Sembawang,Evergreen,UC00104,1,Standard,501
 Sembawang,Evergreen,UC00105,0,Standard,501
-Sembawang,Evergreen,UC00106,0,Premium,649
+Sembawang,Evergreen,UC00106,0,Refrigerated,649
 Sembawang,Evergreen,UC00107,0,Standard,501
 Sembawang,Evergreen,UC00108,1,Standard,501
 Sembawang,Evergreen,UC00109,1,Standard,501
-Sembawang,Evergreen,UC00110,0,Premium,649
+Sembawang,Evergreen,UC00110,0,Refrigerated,649
 Sembawang,Evergreen,UC00111,1,Standard,501
 Sembawang,Evergreen,UC00112,0,Standard,501
 Sembawang,Evergreen,UC00113,1,Standard,501
 Sembawang,Evergreen,UC00114,1,Standard,501
-Sembawang,Evergreen,UC00115,1,Premium,649
+Sembawang,Evergreen,UC00115,1,Refrigerated,649
 Sembawang,Evergreen,UC00116,0,Standard,501
 Sembawang,Evergreen,UC00117,1,Standard,501
-Sembawang,Evergreen,UC00118,0,Premium,649
+Sembawang,Evergreen,UC00118,0,Refrigerated,649
 Sembawang,Evergreen,UC00119,0,Standard,501
 Sembawang,Evergreen,UC00120,1,Standard,501
 Sembawang,Evergreen,UC00121,0,Standard,501
-Sembawang,Evergreen,UC00122,0,Premium,649
-Sembawang,Evergreen,UC00123,0,Premium,649
-Sembawang,Evergreen,UC00124,1,Premium,649
+Sembawang,Evergreen,UC00122,0,Refrigerated,649
+Sembawang,Evergreen,UC00123,0,Refrigerated,649
+Sembawang,Evergreen,UC00124,1,Refrigerated,649
 Sembawang,Evergreen,UC00125,1,Standard,501
-Sembawang,Evergreen,UC00126,0,Premium,649
-Sembawang,Evergreen,UC00127,0,Premium,649
+Sembawang,Evergreen,UC00126,0,Refrigerated,649
+Sembawang,Evergreen,UC00127,0,Refrigerated,649
 Sembawang,Evergreen,UC00128,0,Standard,501
 Sembawang,Evergreen,UC00129,0,Standard,501
-Sembawang,Evergreen,UC00130,0,Premium,649
+Sembawang,Evergreen,UC00130,0,Refrigerated,649
 Sembawang,Evergreen,UC00131,0,Standard,501
-Sembawang,Evergreen,UC00132,0,Premium,649
-Sembawang,Evergreen,UC00133,0,Premium,649
+Sembawang,Evergreen,UC00132,0,Refrigerated,649
+Sembawang,Evergreen,UC00133,0,Refrigerated,649
 Sembawang,Evergreen,UC00134,1,Standard,501
-Sembawang,Evergreen,UC00135,0,Premium,649
-Sembawang,Evergreen,UC00136,0,Premium,649
+Sembawang,Evergreen,UC00135,0,Refrigerated,649
+Sembawang,Evergreen,UC00136,0,Refrigerated,649
 Sembawang,Evergreen,UC00137,1,Standard,501
 Sembawang,Evergreen,UC00138,1,Standard,501
 Sembawang,Evergreen,UC00139,0,Standard,501
 Sembawang,Evergreen,UC00140,1,Standard,501
-Sembawang,Evergreen,UC00141,0,Premium,649
+Sembawang,Evergreen,UC00141,0,Refrigerated,649
 Sembawang,Evergreen,UC00142,0,Standard,501
-Sembawang,Evergreen,UC00143,0,Premium,649
+Sembawang,Evergreen,UC00143,0,Refrigerated,649
 Sembawang,Evergreen,UC00144,1,Standard,501
-Sembawang,Evergreen,UC00145,1,Premium,649
-Sembawang,Evergreen,UC00146,1,Premium,649
+Sembawang,Evergreen,UC00145,1,Refrigerated,649
+Sembawang,Evergreen,UC00146,1,Refrigerated,649
 Sembawang,Evergreen,UC00147,0,Standard,501
-Sembawang,Evergreen,UC00148,1,Premium,649
-Sembawang,Evergreen,UC00149,1,Premium,649
+Sembawang,Evergreen,UC00148,1,Refrigerated,649
+Sembawang,Evergreen,UC00149,1,Refrigerated,649
 Sembawang,Evergreen,UC00150,0,Standard,501
 Sembawang,Evergreen,UC00151,1,Standard,501
 Sembawang,Evergreen,UC00152,1,Standard,501
-Sembawang,Evergreen,UC00153,1,Premium,649
-Tuas,Evergreen,UC00154,0,Premium,649
-Tuas,Evergreen,UC00155,1,Premium,649
-Tuas,Evergreen,UC00156,1,Premium,649
+Sembawang,Evergreen,UC00153,1,Refrigerated,649
+Tuas,Evergreen,UC00154,0,Refrigerated,649
+Tuas,Evergreen,UC00155,1,Refrigerated,649
+Tuas,Evergreen,UC00156,1,Refrigerated,649
 Tuas,Evergreen,UC00157,1,Standard,501
 Tuas,Evergreen,UC00158,0,Standard,501
 Tuas,Evergreen,UC00159,0,Standard,501
 Tuas,Evergreen,UC00160,0,Standard,501
 Tuas,Evergreen,UC00161,1,Standard,501
-Tuas,Evergreen,UC00162,0,Premium,649
-Tuas,Evergreen,UC00163,1,Premium,649
-Tuas,Evergreen,UC00164,1,Premium,649
+Tuas,Evergreen,UC00162,0,Refrigerated,649
+Tuas,Evergreen,UC00163,1,Refrigerated,649
+Tuas,Evergreen,UC00164,1,Refrigerated,649
 Tuas,Evergreen,UC00165,0,Standard,501
 Tuas,Evergreen,UC00166,1,Standard,501
-Tuas,Evergreen,UC00167,1,Premium,649
-Tuas,Evergreen,UC00168,0,Premium,649
-Tuas,Evergreen,UC00169,1,Premium,649
-Tuas,Evergreen,UC00170,0,Premium,649
+Tuas,Evergreen,UC00167,1,Refrigerated,649
+Tuas,Evergreen,UC00168,0,Refrigerated,649
+Tuas,Evergreen,UC00169,1,Refrigerated,649
+Tuas,Evergreen,UC00170,0,Refrigerated,649
 Tuas,Evergreen,UC00171,0,Standard,501
-Tuas,Evergreen,UC00172,0,Premium,649
+Tuas,Evergreen,UC00172,0,Refrigerated,649
 Tuas,Evergreen,UC00173,0,Standard,501
-Tuas,Evergreen,UC00174,1,Premium,649
-Tuas,Evergreen,UC00175,0,Premium,649
-Tuas,Evergreen,UC00176,1,Premium,649
+Tuas,Evergreen,UC00174,1,Refrigerated,649
+Tuas,Evergreen,UC00175,0,Refrigerated,649
+Tuas,Evergreen,UC00176,1,Refrigerated,649
 Tuas,Evergreen,UC00177,1,Standard,501
-Tuas,Evergreen,UC00178,1,Premium,649
+Tuas,Evergreen,UC00178,1,Refrigerated,649
 Tuas,Evergreen,UC00179,1,Standard,501
-Tuas,Evergreen,UC00180,1,Premium,649
-Tuas,Evergreen,UC00181,1,Premium,649
-Tuas,Evergreen,UC00182,1,Premium,649
-Tuas,Evergreen,UC00183,0,Premium,649
+Tuas,Evergreen,UC00180,1,Refrigerated,649
+Tuas,Evergreen,UC00181,1,Refrigerated,649
+Tuas,Evergreen,UC00182,1,Refrigerated,649
+Tuas,Evergreen,UC00183,0,Refrigerated,649
 Tuas,Evergreen,UC00184,0,Standard,501
 Tuas,Evergreen,UC00185,0,Standard,501
-Tuas,Evergreen,UC00186,1,Premium,649
-Tuas,Evergreen,UC00187,1,Premium,649
+Tuas,Evergreen,UC00186,1,Refrigerated,649
+Tuas,Evergreen,UC00187,1,Refrigerated,649
 Tuas,Evergreen,UC00188,0,Standard,501
-Tuas,Evergreen,UC00189,0,Premium,649
+Tuas,Evergreen,UC00189,0,Refrigerated,649
 Tuas,Evergreen,UC00190,0,Standard,501
-Tuas,Evergreen,UC00191,0,Premium,649
-Tuas,Evergreen,UC00192,0,Premium,649
-Tuas,Evergreen,UC00193,0,Premium,649
-Tuas,Evergreen,UC00194,1,Premium,649
+Tuas,Evergreen,UC00191,0,Refrigerated,649
+Tuas,Evergreen,UC00192,0,Refrigerated,649
+Tuas,Evergreen,UC00193,0,Refrigerated,649
+Tuas,Evergreen,UC00194,1,Refrigerated,649
 Tuas,Evergreen,UC00195,0,Standard,501
 Tuas,Evergreen,UC00196,0,Standard,501
 Tuas,Evergreen,UC00197,1,Standard,501
-Tuas,Evergreen,UC00198,1,Premium,649
-Tuas,Evergreen,UC00199,0,Premium,649
-Tuas,Evergreen,UC00200,1,Premium,649
+Tuas,Evergreen,UC00198,1,Refrigerated,649
+Tuas,Evergreen,UC00199,0,Refrigerated,649
+Tuas,Evergreen,UC00200,1,Refrigerated,649
 Tuas,Evergreen,UC00201,1,Standard,501
 Tuas,Evergreen,UC00202,0,Standard,501
 Tuas,Evergreen,UC00203,0,Standard,501
 Tuas,Evergreen,UC00204,1,Standard,501
-Tuas,Evergreen,UC00205,0,Premium,649
+Tuas,Evergreen,UC00205,0,Refrigerated,649
 Tuas,Evergreen,UC00206,0,Standard,501
 Tuas,Evergreen,UC00207,1,Standard,501
 Tuas,Evergreen,UC00208,0,Standard,501
-Tuas,Evergreen,UC00209,1,Premium,649
-Tuas,Evergreen,UC00210,0,Premium,649
+Tuas,Evergreen,UC00209,1,Refrigerated,649
+Tuas,Evergreen,UC00210,0,Refrigerated,649
