@@ -5,6 +5,7 @@ import os
 import pandas as pd
 from pandasai import SmartDataframe
 from time import sleep
+import numpy as np
 
 
 load_dotenv()
@@ -46,12 +47,19 @@ def chat_page():
 
         with col2:
             containers_need = st.number_input("How many containers do you need?", min_value=1, max_value=999999, value=1)
-            line_options = data["Shipping Line"].unique()
+            line_options = np.insert(data["Shipping Line"].unique(), 0, "Any")
             line = st.selectbox("Shipping line to borrow from", line_options[line_options != st.session_state.option])
-            container_type = st.selectbox("Select container type", data["Type"].unique())
+            container_options = np.insert(data["Type"].unique(), 0, "Any")
+            container_type = st.selectbox("Select container type", container_options)
                 
             if containers_need is not None:
-                prompt = "Give me the list of the " + str(containers_need) + " least expensive " + container_type +" containers from " + line + "."
+                prompt = "Give me the list of the " + str(containers_need) + " least expensive "
+                if container_type is not "Any":
+                    prompt += container_type
+                prompt += " containers"
+                if line is not "Any":
+                    prompt += " from " + line
+                prompt += "."
                 if st.button("Submit"):
                     st.info("Your Query: "+prompt)
                     st.session_state.result = chat_with_csv(data, prompt)
