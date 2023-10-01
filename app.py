@@ -68,10 +68,6 @@ def chat_page():
 def confirm_page(result):
     with box2.container():
         st.title("Check results")
-        if st.button("Clear"):
-            st.session_state.result = None
-            box2.empty()
-            sleep(0.01)
         if result is not None:
             st.dataframe(result.set_index(result.columns[0]), use_container_width=True)
         if len(result.index) < st.session_state.containers:
