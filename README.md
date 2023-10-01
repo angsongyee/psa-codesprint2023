@@ -1,5 +1,5 @@
-# ChatCSV-Streamlit-App
-An LLM powered ChatCSV Streamlit app so you can chat with your CSV files.
+# PSA Codesprint 2023 Submission
+Adapted from <a href="https://github.com/AIAnytime/ChatCSV-Streamlit-App/blob/main/app.py">AIAnytime/ChatCSV-Streamlit-App</a>.
 
 <h1> How to run the app?</h1>
 <p> OpenAI instantly revokes the API key once it detects that the key has been exposed publicly. So, that's the only thing to take care of.</p>
@@ -31,8 +31,8 @@ An LLM powered ChatCSV Streamlit app so you can chat with your CSV files.
   Henceforth make sure to have Streamlit installed in your system. Run the app by:
   
   ```
-  git clone https://github.com/AIAnytime/ChatCSV-Streamlit-App.git
-  cd ChatCSV-Streamlit-App
+  git clone https://github.com/angsongyee/psa-codesprint2023.git
+  cd psa-codesprint2023
   pip install -r requirements.txt
   streamlit run app.py
   
