@@ -43,6 +43,7 @@ def chat_page():
             data = pd.read_csv("./Success v0.5.csv")
             data = data[(data['Available'] == 1)]
             del data['Available']
+            data = data[data['Shipping Line' != st.session_state.option]]
             st.dataframe(data.set_index(data.columns[0]), use_container_width=True)
 
         with col2:
