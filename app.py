@@ -54,7 +54,7 @@ def chat_page():
                 
             if containers_need is not None:
                 st.session_state.containers = containers_need
-                prompt = "Give me the list of the " + str(containers_need) + " least expensive "
+                prompt = "Give me a list of the " + str(containers_need) + " least expensive "
                 if container_type is not "Any":
                     prompt += container_type
                 prompt += " containers"
