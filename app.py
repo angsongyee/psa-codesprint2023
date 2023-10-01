@@ -53,6 +53,7 @@ def chat_page():
             container_type = st.selectbox("Select container type", container_options)
                 
             if containers_need is not None:
+                st.session_state.containers = containers_need
                 prompt = "Give me the list of the " + str(containers_need) + " least expensive "
                 if container_type is not "Any":
                     prompt += container_type
@@ -73,8 +74,13 @@ def confirm_page(result):
             sleep(0.01)
         if result is not None:
             st.dataframe(result.set_index(result.columns[0]), use_container_width=True)
+        if len(result.index) < st.session_state.containers:
+            st.error("Found only " + str(len(result.index)) + " containers. Consider relaxing your search requirements.")
         st.success("Total price: $" + str(result['Price'].sum()))
-        st.button("Place Order")
+        confirm = st.button("Place Order")
+        if confirm:
+            st.balloons()
+            st.toast("Order placed successfully")
 
 if 'login' not in st.session_state:
     st.session_state.login = False
@@ -89,3 +95,4 @@ if st.session_state.login:
 if st.session_state.result is not None:
     box2 = st.empty()
     confirm_page(st.session_state.result.dataframe)
+
